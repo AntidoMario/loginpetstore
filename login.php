@@ -12,9 +12,15 @@
         *{
             font-family: cursive;
         }
+
+        body{
+            background-image: url(logo.png);
+            background-repeat: no-repeat;
+        }
+
         .login-box {
     width: 400px; /* Increase the width of the login box */
-    margin: 100px auto;
+    margin: 50px auto;
     background: rgba(255, 255, 255, 0.8); /* White with some transparency */
     padding: 40px; /* Increase padding for more space */
     border-radius: 10px; /* Increase border radius for smoother edges */
